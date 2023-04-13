@@ -12,18 +12,15 @@ public class Part1 {
 		//-----------------------------------------------------
 		// Title: Part 1
 		// Author: Basme Zantout
-		// ID: 99227947762
-		// Section: 1
-		// Assignment: 2
 		// Description: This is the main class for Part 1 which depends
 		//              on the Sorting Algorithm Classes since it will sort
 		//              Integer and Double arrays using different sorting 
-	    //              algorithms and in different orders
+	        //              algorithms and in different orders
 		//-----------------------------------------------------
 
 			
 
-        //----------------------------------------------------------------
+                //----------------------------------------------------------------
 		// READING A TEXT FILE (of integers)
 		// Note: Check "readFiles(String file)" method below for details
 		//----------------------------------------------------------------	
