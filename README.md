@@ -2,7 +2,8 @@
 
 This project is focused on observing different Sorting Algorithms, comparing their time complexities, as well as getting a deep understanding of their implementations. The code is written with detailed commenting to ease understanding and modifications.  
 
-##Introduction
+## Data Structures and Algorithms Project
+## Introduction
 
 This Java project implements different sorting algorithms and measures their time complexity. The implemented algorithms are:
 
