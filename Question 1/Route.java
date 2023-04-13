@@ -6,9 +6,6 @@ public class Route implements Comparable<Route> {
 	//-----------------------------------------------------
 	// Title: Part 1
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2
 	// Description: This class that will be used to instantiate 
 	//              Comparable Route objects
 	//-----------------------------------------------------
