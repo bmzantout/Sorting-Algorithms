@@ -9,9 +9,6 @@ public class Merge {
 	//-----------------------------------------------------
 	// Title: Part 1
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 2
 	// Description: This class includes the Merge Sort Algorithm
 	//-----------------------------------------------------
 
