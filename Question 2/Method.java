@@ -12,13 +12,10 @@ public class Method {
 		//-----------------------------------------------------
 		// Title: Part 2
 		// Author: Basme Zantout
-		// ID: 99227947762
-		// Section: 1
-		// Assignment: 2
 		// Description: This is the main class that performs the 
 		//              the required for testing the run time 
 		//              when finding the smallest pairwise difference
-	    //              after sorting an array using different 
+	        //              after sorting an array using different 
 		//              sorting algorithms and testing different 
 		//              input sizes and orders
 		//-----------------------------------------------------
